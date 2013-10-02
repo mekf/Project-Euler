@@ -8,6 +8,7 @@
 
 # 2520 is given as divisible to (1..10)
 # therefore we can check increments of 2520 to see if there is a number divisible to (11..20)
+# TODO: check the logic
 
 
 @i = 2520
